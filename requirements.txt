@@ -1,0 +1,8 @@
+asyncio
+flask
+google
+nest_asyncio
+pandas
+playwright
+pyngrok
+sqlite3

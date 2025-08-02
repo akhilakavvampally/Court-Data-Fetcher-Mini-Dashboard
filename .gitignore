@@ -1,0 +1,34 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv/
+venv/
+ENV/
+env/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest and coverage
+.cache/
+.coverage
+htmlcov/
+
+# Playwright cache
+playwright/.cache/
+
+# Logs
+*.log
